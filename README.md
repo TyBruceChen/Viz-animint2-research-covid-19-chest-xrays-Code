@@ -5,3 +5,7 @@ Visualization is available in [Viz-animint2-research-covid-19-chest-xrays](https
 Developed under research [A Vision Transformer Machine Learning Model for COVID-19 Dagnosis Using Chest X-Ray Images](https://github.com/TyBruceChen/Research-A-Fined-Tuned-ViT-for-COVID-19-Image-Auxiliary-Diagnosing)
 
 Thanks Animint2 R package.
+
+For more content about my work in R (animint2):
+
+[Animinted2GradCAM](https://github.com/TyBruceChen/Animinted2GradCAM)
